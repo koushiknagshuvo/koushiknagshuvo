@@ -9,3 +9,12 @@
 - ⚡ Fun fact: I love to eat a lot of food.
 - 📫 How to reach me:[Facebook - @koushiknagshuvo](https://www.facebook.com/koushiknag.shuvo) , [Twitter - @koushikshuvo5](https://twitter.com/KoushikShuvo5)
 
+<a href="https://www.facebook.com/koushiknag.shuvo">
+  <img align="left" alt="koushiknagshuvo's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://twitter.com/KoushikShuvo5">
+  <img align="left" alt="koushiknagshuvo's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/koushik-nag-shuvo-bb46a4196/">
+  <img align="left" alt="koushiknagshuvo's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
