@@ -6,5 +6,6 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to eat and play cricket.
+- ⚡ Fun fact: I love to eat a lot of food.
+- 📫 How to reach me:[Facebook - @koushiknagshuvo](https://www.facebook.com/koushiknag.shuvo) , [Twitter - @koushikshuvo5](https://twitter.com/KoushikShuvo5)
 
