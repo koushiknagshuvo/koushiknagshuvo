@@ -14,8 +14,10 @@ I'm Koushik from Bangladesh, and I full-time Designer, Developer & freelancer. I
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KoushikShuvo5)
 [![Behance](https://img.shields.io/badge/Behance-004BBE?style=for-the-badge&logo=Behance&logoColor=white)](https://www.behance.net/koushiknag)
 [![telegram](https://img.shields.io/badge/telegram-1877F2?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/#/im?p=u777000_2419912564689948202)
-[![instagram](https://img.shields.io/badge/instagram-F20404?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/koushik1512971/?hl=en)
+[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/koushik1512971/?hl=en)
 [![github](https://img.shields.io/badge/github-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/koushiknagshuvo)
+
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=koushiknagshuvo) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koushiknagshuvo)](https://github.com/anuraghazra/github-readme-stats)
