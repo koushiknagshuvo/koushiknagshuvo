@@ -1,12 +1,48 @@
 ### Hola, I'm koushik Nag Shuvo! 👋
 
-## I'm a student,The only child of my parents,A developer and web series lover!
 
-- 🔭 I’m currently working on a web development and UI/UX design!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to eat a lot of food.
+
+### Hi there 👋, My name is Koushik Nag Shuvo
+#### Designer & Developer
+![Designer & Developer](https://drive.google.com/file/d/1nZD6orujQqIdZWgR4GJdEknC1XQ7EJZ1/view?usp=sharing)
+
+I'm Koushik from Bangladesh, and I full-time Designer, Developer & freelancer. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, UI, UX, and design in general.
+
+Skills:  REACT/  REACT NATIVE / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/koushiknagshuvo)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koushiknagshuvo)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=koushiknagshuvo&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=koushiknagshuvo)  
+
+![GitHub metrics](https://metrics.lecoq.io/koushiknagshuvo)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=koushiknagshuvo)  
+
+![Profile views](https://gpvc.arturio.dev/koushiknagshuvo)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - 📫 How to reach me : [Facebook - @koushiknagshuvo](https://www.facebook.com/koushiknag.shuvo) , [Twitter - @koushikshuvo5](https://twitter.com/KoushikShuvo5) .     
 
 
