@@ -1,9 +1,11 @@
 
 
 
+
+![Designer & Developer](https://github.com/koushiknagshuvo/koushiknagshuvo/blob/master/koushik%20new%20banar.jpg?raw=true)
+
 ### Hi there 👋, My name is Koushik Nag Shuvo
 #### Designer & Developer
-![Designer & Developer](https://github.com/koushiknagshuvo/koushiknagshuvo/blob/master/koushik%20new%20banar.jpg?raw=true)
 
 I'm Koushik from Bangladesh, and I full-time Designer, Developer & freelancer. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, UI, UX, and design in general.
 
