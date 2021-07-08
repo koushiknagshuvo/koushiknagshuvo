@@ -11,15 +11,16 @@ I'm Koushik from Bangladesh, and I full-time Designer, Developer & freelancer. I
 
 #### Skills:  REACT/  REACT NATIVE / JS / HTML / CSS
 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=koushiknagshuvo) 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koushiknagshuvo)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=koushiknagshuvo&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=koushiknagshuvo)  
+ 
 
 ![GitHub metrics](https://metrics.lecoq.io/koushiknagshuvo)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=koushiknagshuvo)  
 
 ![Profile views](https://gpvc.arturio.dev/koushiknagshuvo)  
 
