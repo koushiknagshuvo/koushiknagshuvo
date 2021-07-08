@@ -9,8 +9,11 @@
 
 I'm Koushik from Bangladesh, and I full-time Designer, Developer & freelancer. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, UI, UX, and design in general.
 
-#### Skills:  REACT/  REACT NATIVE / JS / HTML / CSS
-
+###  Skills:  
+#### ⚛ React
+#### 📱 React Native 
+#### 💻 HTML / CSS / JS 
+#### 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=koushiknagshuvo) 
 
