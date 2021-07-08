@@ -8,6 +8,7 @@ I'm Koushik from Bangladesh, and I full-time Designer, Developer & freelancer. I
 #### Development Skills : React | React Native | HTML | CSS | JS
 #### Design  Skills : Adobe photoshop | Adobe illustrator | Figma | Adobe xd | Adobe premiere pro
 
+![Profile views](https://gpvc.arturio.dev/koushiknagshuvo)  
 ### Contact Links
 [![Fecebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/koushiknag.shuvo)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koushik-nag-shuvo-bb46a4196/)
@@ -20,18 +21,6 @@ I'm Koushik from Bangladesh, and I full-time Designer, Developer & freelancer. I
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=koushiknagshuvo) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koushiknagshuvo)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=koushiknagshuvo&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/koushiknagshuvo)  
-
-![Profile views](https://gpvc.arturio.dev/koushiknagshuvo)  
-
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushiknagshuvo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
