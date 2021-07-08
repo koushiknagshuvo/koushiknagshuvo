@@ -21,8 +21,6 @@ I'm Koushik from Bangladesh, and I full-time Designer, Developer & freelancer. I
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=koushiknagshuvo&show_icons=true&count_private=true)  
 
- 
-
 ![GitHub metrics](https://metrics.lecoq.io/koushiknagshuvo)  
 
 ![Profile views](https://gpvc.arturio.dev/koushiknagshuvo)  
