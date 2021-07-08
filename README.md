@@ -9,6 +9,13 @@
 - ⚡ Fun fact: I love to eat a lot of food.
 - 📫 How to reach me : [Facebook - @koushiknagshuvo](https://www.facebook.com/koushiknag.shuvo) , [Twitter - @koushikshuvo5](https://twitter.com/KoushikShuvo5) .     
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushiknagshuvo)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 - 😃 You can follow  me :
 
 <a href="https://www.facebook.com/koushiknag.shuvo">
