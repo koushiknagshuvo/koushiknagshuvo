@@ -4,16 +4,13 @@
 
 ![Designer & Developer](https://github.com/koushiknagshuvo/koushiknagshuvo/blob/master/koushik%20new%20banar.jpg?raw=true)
 
-### Hi there 👋, My name is Koushik Nag Shuvo
-#### Designer & Developer
+## Hi there 👋, My name is Koushik Nag Shuvo
+#### 🚀 About Me : Designer & Developeradobe xd
 
 I'm Koushik from Bangladesh, and I full-time Designer, Developer & freelancer. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, UI, UX, and design in general.
 
-###  Skills:  
-#### ⚛ React
-#### 📱 React Native 
-#### 💻 HTML / CSS / JS 
-#### 
+### Development Skills : React | React Native | HTML | CSS | JS
+### Design  Skills : Adobe photoshop | Adobe illustrator | Figma | Adobe xd | Adobe premiere pro
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=koushiknagshuvo) 
 
