@@ -19,7 +19,7 @@ I'm Koushik from Bangladesh, and I full-time Designer, Developer & freelancer. I
 [![github](https://img.shields.io/badge/github-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/koushiknagshuvo)
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=koushiknagshuvo) 
+[![koushiknagshuvo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=koushiknagshuvo)](https://github.com/koushiknagshuvo/github-readme-activity-graph)
 
 
 
