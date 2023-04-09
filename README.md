@@ -3,9 +3,9 @@
 ## Hi there 👋, My name is Koushik Nag Shuvo
 #### 🚀 About Me : Designer & Developer
 
-I'm Koushik from Bangladesh, and I full-time Designer, Developer & freelancer. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, UI, UX, and design in general.
+I'm Koushik from Bangladesh, and I full-time Designer, Developer & freelancer. I really enjoy learning languages and frameworks like React and Next js, as well as work in WordPress. I also enjoy wireframing, UI, UX, and design in general.
 
-#### Development Skills : React | React Native | HTML | CSS | JS
+#### Development Skills : HTML | CSS | JS | React | Next js | Node Js | Express | Tailwind css | Material UI | Ant Design | React Native
 #### Design  Skills : Adobe photoshop | Adobe illustrator | Figma | Adobe xd | Adobe premiere pro
 
 ![Profile views](https://gpvc.arturio.dev/koushiknagshuvo)  
